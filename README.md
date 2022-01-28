@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohanmrzan100
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter deveopment
+- 🌱 I’m currently web development
+- 💞️ I’m looking to collaborate on web deveopment
 - 📫 How to reach me :rohanmrzan100@gmail.com
 
 
